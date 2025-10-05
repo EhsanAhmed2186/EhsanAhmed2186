@@ -16,10 +16,19 @@ I am a passionate **Competitive Programmer** 💻 and currently learning:
 - 📚 Exploring advanced concepts in Computer Science  
 - 🎯 Aim: To achieve academic excellence and contribute through innovation  
 
+## 🧩 Programming Languages I Know
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ---
+
 
 ### 📈 GitHub Stats  
 ![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EhsanAhmed2186&show_icons=true&theme=tokyonight)  
+### 🧠 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanAhmed2186&layout=compact&langs_count=8&theme=radical)
+
 
 ### 🔗 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ehsanahmed2186/)  
