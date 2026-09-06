@@ -1,6 +1,6 @@
 # Peace be upon you, I am Ehsan 👋  
 
-### 🎓 CS Engineering Student | 2nd Year 
+### 🎓 CS Engineering Student | 3rd Year 
 
 🎓 Currently studying **Computer Science and Engineering** at **University of Asia Pacific** [2nd year] 📌 Class Representative of my section  
 
